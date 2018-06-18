@@ -1,0 +1,10 @@
+{
+  "cookbook_versions": {
+    "all_servers": "= 0.1.29"
+  },
+  "default_attributes": {
+    
+  },
+  "override_attributes": {
+  }
+}
