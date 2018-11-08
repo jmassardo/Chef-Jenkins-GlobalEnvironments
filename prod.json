@@ -2,14 +2,12 @@
   "name": "prod",
   "description": "Main env for prod servers",
   "cookbook_versions": {
-    "all_servers": "= 0.1.26"
+    "all_servers": "= 0.2.3"
   },
   "json_class": "Chef::Environment",
   "chef_type": "environment",
   "default_attributes": {
-
   },
   "override_attributes": {
-    
   }
 }
