@@ -2,7 +2,7 @@
   "name": "dev",
   "description": "dev env",
   "cookbook_versions": {
-      "all_systems": "= 0.2.13"
+      "all_systems": "= 0.2.20"
   },
   "json_class": "Chef::Environment",
   "chef_type": "environment",
